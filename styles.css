@@ -4,9 +4,15 @@ body{
 }
 
 @viewport{
-        Zoom:1;
+        Zoom:1.0;
         Width:Extend-to-zoom;
 }
+
+@-ms-viewport{
+        Zoom:1.0;
+        Width:Extend-to-zoom;
+}
+
 
 .about{
 	text-align:center;
