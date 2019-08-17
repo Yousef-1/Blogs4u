@@ -3,6 +3,11 @@ body{
 	margin:0;
 }
 
+@viewport{
+        Zoom:1;
+        Width:Extend-to-zoom;
+}
+
 .about{
 	text-align:center;
 }
